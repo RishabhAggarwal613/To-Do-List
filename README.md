@@ -13,7 +13,7 @@ A vibrant, responsive and lightweight To-Do List web application built using **R
 
 ## 📸 Preview
 
-![Preview Screenshot](preview.png)
+![Preview Screenshot](Preview/preview-1.png)(Preview/preview-2.png)(Preview/preview-3.png)
 
 ## 🛠️ Tech Stack
 
